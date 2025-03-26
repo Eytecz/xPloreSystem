@@ -1,0 +1,31 @@
+Solid Edge Translation to STEP
+Date: woensdag,maart 26,2025 08:21
+Output File: C:\Users\cwape\OneDrive\Engineering\_Github\Eytecz\XploreSystem\Github\xPloreSystem\xPloreCore\PurgeBelt\Mechanics\STEP\20250326_xPloreCore_PurgeBelt.stp
+Author: Unknown
+Organization: Unknown
+Source System: Solid Edge
+
+Hardware:
+Processor: 12th Gen Intel(R) Core(TM) i7-12700H
+Operating System: Windows 11 Version:24H2 Build:26100 System Type:64-bit
+Installed Memory: 31.73 GB
+
+Software Information
+Parasolid Version: 36.0.142
+PSBodyShop Version: 36.0.108
+Step Adapter Version: 13.0.163
+Solid Edge Version: 224.00.00.101 x64
+
+STEP Export Options
+Export Format: AP214
+Export Construction Sheets: Off
+Export Construction Solids: Off
+Export Construction Wires: Off
+Export Displayed Parts Only: On
+Export Units: Millimeters
+Export Part Component Names As Unicode: Off
+Export PMI: Off
+
+Phase 1 of 1 Translating Parasolid to foreign data types...
+Translation process completed
+Time required to translate:00 : 00 : 03
